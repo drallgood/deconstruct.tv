@@ -10,6 +10,9 @@ layout: podcast
 permalink:
   - ""
 published: false
+_podlove_guid:
+  - >
+    podlove-2015-09-22t22:09:05+00:00-89f5b2cdedf8b1a
 ---
 <p>
 <strong>This episode is brought to you by <a href="http://thetechhangout.com">The Tech Hangout</a></strong>
