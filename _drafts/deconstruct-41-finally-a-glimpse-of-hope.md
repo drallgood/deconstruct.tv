@@ -1,12 +1,19 @@
 ---
+ID: 302
 post_title: 'Deconstruct 41: Finally a glimpse of hope'
 author:
-  - 'a:1:{i:0;s:60:"a:1:{i:0;s:42:"a:1:{i:0;s:24:"a:1:{i:0;s:7:"patrice";}";}";}";}'
+  - 'a:1:{i:0;s:78:"a:1:{i:0;s:60:"a:1:{i:0;s:42:"a:1:{i:0;s:24:"a:1:{i:0;s:7:"patrice";}";}";}";}";}'
+post_date: 2015-10-30 12:00:51
+post_excerpt: ""
 layout: podcast
 permalink:
   - ""
 published: false
+_podlove_guid:
+  - >
+    podlove-2015-10-30t19:00:52+00:00-a8f98b7c7f9d082
 ---
+
 <p>On Ep41: Ben and Patrice tech on more crappy stories.  <br />
 In our first article, the internet took offense to Apple hiring a developer for their come to Android App and we set them straight.  In our second article, FastCo design’s website annoys Patrice and its article about Apple having too many products doesn’t get any better.  In our last article, Metallo writes an excellent article about why the Apple TV does have 4k.  No, we weren't paid the $10 million.</p>
 <p><strong>This episode is brought to you by <a href="http://thetechhangout.com">The Tech Hangout</a></strong>
