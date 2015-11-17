@@ -6,10 +6,10 @@ post_excerpt: ""
 layout: podcast
 permalink: 'http://deconstruct.tv/?post_type=podcast&p=363'
 published: false
-podlove_subtitle: null
+podlove_subtitle: "Sub"
 podlove_summary: null
 podlove_enable: null
-podlove_slug: test2
+podlove_slug: test3
 podlove_duration: null
 podlove_cover_art: null
 podlove_chapters: null
@@ -18,4 +18,4 @@ podlove_explicit: null
 podlove_license_name: null
 podlove_license_url: null
 ---
-test2
+test3
