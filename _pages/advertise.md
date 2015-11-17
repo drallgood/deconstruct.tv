@@ -2,14 +2,14 @@
 ID: 43
 post_title: Advertise
 author:
-  - patrice
+  - 'a:1:{i:0;s:7:"patrice";}'
 post_date:
-  - 2014-10-11 01:10:38
+  - 'a:1:{i:0;s:19:"2014-10-11 01:10:38";}'
 post_excerpt:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 layout: page
 permalink:
-  - /advertise/
+  - 'a:1:{i:0;s:11:"/advertise/";}'
 published: true
 ---
 We at Deconstruct like to connect awesome products and companies with the right customers. Our listeners are not the average people you'll find on big websites or TV shows, they enjoy critical thinking and have a sense of humor. Thus your product should be well suited for this type of audience, whether it's a new awesome social network, a website building tool, some kind of hardware (e.g. a fitness tracker or a NAS), high quality clothing or anything to improve our stressful lives. High quality should be your guiding principle, both on the product as well as on the customer service side of your business.
