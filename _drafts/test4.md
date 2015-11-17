@@ -15,7 +15,7 @@ podlove_post_id: "393"
 podlove_subtitle: null
 podlove_summary: null
 podlove_enable: null
-podlove_slug: null
+podlove_slug: test45
 podlove_duration: null
 podlove_cover_art: null
 podlove_chapters: null
