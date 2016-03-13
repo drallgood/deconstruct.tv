@@ -2,19 +2,21 @@
 ID: 438
 post_title: 'Deconstruct 46: That Time Patrice Went to a Movie'
 author: patrice
-post_date: 2016-03-13 14:46:52
+post_date: 2016-03-13 14:47:35
 post_excerpt: ""
 layout: podcast
-permalink: 'http://deconstruct.tv/?post_type=podcast&p=438'
-published: false
+permalink: >
+  http://deconstruct.tv/episode/deconstruct-46-time-patrice-went-movie/
+published: true
 podlove_id: "198"
 podlove_post_id: "438"
 podlove_subtitle: null
 podlove_summary: null
 podlove_enable: null
-podlove_slug: null
-podlove_duration: null
-podlove_cover_art: null
+podlove_slug: episode46
+podlove_duration: 00:30:34.632
+podlove_cover_art: >
+  http://cdn.deconstruct.tv/assets/deconstruct_logo_white.png
 podlove_chapters: null
 podlove_recording_date: null
 podlove_explicit: null
