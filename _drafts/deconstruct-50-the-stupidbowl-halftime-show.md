@@ -1,17 +1,20 @@
 ---
+ID: 460
 post_title: 'Deconstruct 50: The Stupidbowl Halftime Show'
 author: patrice
+post_date: 2016-05-18 12:12:07
 post_excerpt: ""
 layout: podcast
-permalink: http://deconstruct.tv/episode/50/
-podlove_subtitle: >
-  On this week’s Deconstruct, we turn 50 and nobody can do the Disclaimer….
+permalink: 'http://deconstruct.tv/?post_type=podcast&p=460'
+published: false
+podlove_id: "205"
+podlove_post_id: "460"
+podlove_subtitle: null
 podlove_summary: null
 podlove_enable: null
-podlove_slug: episode50
-podlove_duration: 00:34:16.594
-podlove_cover_art: >
-  http://cdn.deconstruct.tv/assets/deconstruct_logo_white.png
+podlove_slug: null
+podlove_duration: null
+podlove_cover_art: null
 podlove_chapters: null
 podlove_recording_date: null
 podlove_explicit: null
