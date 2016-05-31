@@ -2,7 +2,7 @@
 ID: 466
 post_title: 'Deconstruct 52: Incredibly Powerful Shit!'
 author: patrice
-post_date: 2016-05-31 15:05:38
+post_date: 2016-05-31 15:06:45
 post_excerpt: ""
 layout: podcast
 permalink: 'http://deconstruct.tv/?post_type=podcast&p=466'
@@ -22,7 +22,7 @@ podlove_license_name: null
 podlove_license_url: null
 ---
 <p>On Deconstruct 52 Jerry is servicing a client for his business, so its just Patrice and Ben.  </p>
-<p>In our first article, Motor Trend Exclusively pulls stuff out of their ass about the Apple Car.  In the second article, Quartz proclaims that Nobody needs the Apple Watch, we give reason why you might want one.</p>
+<p>In our first article, Motor Trend Exclusively pulls stuff out of their ass about the Apple Car.  In the second article, Quartz proclaims that nobody needs the Apple Watch, we give reason why you might want one.</p>
 <p><strong>This episode is brought to you by <a href="http://thetechhangout.com">The Tech Hangout</a></strong>
 </p>
 <p>
