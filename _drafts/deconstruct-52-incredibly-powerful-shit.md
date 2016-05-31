@@ -2,21 +2,26 @@
 ID: 466
 post_title: 'Deconstruct 52: Incredibly Powerful Shit!'
 author: patrice
-post_date: 2016-05-31 15:06:45
+post_date: 2016-05-31 15:07:10
 post_excerpt: ""
 layout: podcast
 permalink: 'http://deconstruct.tv/?post_type=podcast&p=466'
 published: false
 podlove_id: "208"
 podlove_post_id: "466"
-podlove_subtitle: null
+podlove_subtitle: >
+  On Deconstruct 52 Jerry is servicing a
+  client for his business, so its just
+  Patrice and Ben. And they have
+  incredibly powerful shit to talk about!
 podlove_summary: null
 podlove_enable: null
-podlove_slug: null
-podlove_duration: null
-podlove_cover_art: null
+podlove_slug: episode52
+podlove_duration: 00:38:35.24
+podlove_cover_art: >
+  http://cdn.deconstruct.tv/assets/deconstruct_logo_white.png
 podlove_chapters: null
-podlove_recording_date: null
+podlove_recording_date: 2016-04-18 00:00:00
 podlove_explicit: null
 podlove_license_name: null
 podlove_license_url: null
