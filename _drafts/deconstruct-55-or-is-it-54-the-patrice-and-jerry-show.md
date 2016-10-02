@@ -1,26 +1,23 @@
 ---
-post_title: 'Deconstruct 55...or is it 54?  The Patrice and Jerry Show'
+ID: 491
+post_title: 'Deconstruct 55&#8230;or is it 54?  The Patrice and Jerry Show'
 author: patrice
-post_date: 2016-10-02 16:25:30
+post_date: 2016-10-02 14:07:42
 post_excerpt: ""
 layout: podcast
-permalink: http://deconstruct.tv/episode/55/
-published: true
-podlove_subtitle: >
-  On this very stylish episode of
-  Deconstruct Ben, Jerry and Patrice
-  channel their inner fashion geeks to
-  discuss the latest tech news from a
-  fashion magazine.
+permalink: 'http://deconstruct.tv/?post_type=podcast&p=491'
+published: false
+podlove_id: "217"
+podlove_post_id: "491"
+podlove_subtitle: null
 podlove_summary: null
 podlove_enable: null
-podlove_slug: episode54
-podlove_duration: 00:55:21.966
-podlove_cover_art: >
-  http://cdn.deconstruct.tv/assets/deconstruct_logo_white.png
+podlove_slug: null
+podlove_duration: null
+podlove_cover_art: null
 podlove_chapters: null
-podlove_recording_date: 2016-05-29 00:00:00
-podlove_explicit: "1"
+podlove_recording_date: null
+podlove_explicit: null
 podlove_license_name: null
 podlove_license_url: null
 ---
