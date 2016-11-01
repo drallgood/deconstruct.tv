@@ -2,11 +2,12 @@
 ID: 505
 post_title: 'Deconstruct 58: Halloween Edition 2019'
 author: patrice
-post_date: 2016-11-01 04:45:34
+post_date: 2016-11-01 04:46:12
 post_excerpt: ""
 layout: podcast
-permalink: 'http://deconstruct.tv/?post_type=podcast&p=505'
-published: false
+permalink: >
+  http://deconstruct.tv/episode/deconstruct-58-halloween-edition-2019/
+published: true
 podlove_id: "221"
 podlove_post_id: "505"
 podlove_subtitle: >
