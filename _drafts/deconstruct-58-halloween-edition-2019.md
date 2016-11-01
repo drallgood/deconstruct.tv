@@ -2,22 +2,26 @@
 ID: 505
 post_title: 'Deconstruct 58: Halloween Edition 2019'
 author: patrice
-post_date: 2016-11-01 04:44:53
+post_date: 2016-11-01 04:45:34
 post_excerpt: ""
 layout: podcast
 permalink: 'http://deconstruct.tv/?post_type=podcast&p=505'
 published: false
 podlove_id: "221"
 podlove_post_id: "505"
-podlove_subtitle: null
+podlove_subtitle: >
+  Jerry is servicing a client for $100/ hr
+  so its Just Patrice and Ben. And a long
+  ass show full of bullshit stories it is!
 podlove_summary: null
 podlove_enable: null
-podlove_slug: null
-podlove_duration: null
-podlove_cover_art: null
+podlove_slug: episode58
+podlove_duration: 00:56:20.664
+podlove_cover_art: >
+  http://cdn.deconstruct.tv/assets/deconstruct_logo_white.png
 podlove_chapters: null
-podlove_recording_date: null
-podlove_explicit: null
+podlove_recording_date: 2016-09-11 00:00:00
+podlove_explicit: "1"
 podlove_license_name: null
 podlove_license_url: null
 ---
