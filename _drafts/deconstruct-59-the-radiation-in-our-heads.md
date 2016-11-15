@@ -1,14 +1,23 @@
 ---
+ID: 510
 post_title: 'Deconstruct 59: The Radiation in Our Heads'
 author: patrice
+post_date: 2016-11-15 13:25:22
 post_excerpt: ""
 layout: podcast
-permalink: http://deconstruct.tv/episode/59/
-podlove_subtitle: 'Ben and Patrice were having a great day, and so was Jerry.  So good that he’s not here. So the guys take on the truly awful radiation all by themselves!'
-podlove_slug: episode59
-podlove_cover_art: >
-  http://cdn.deconstruct.tv/assets/deconstruct_logo_white.png
-podlove_explicit: "1"
+permalink: 'http://deconstruct.tv/?post_type=podcast&p=510'
+published: false
+podlove_id: "222"
+podlove_post_id: "510"
+podlove_subtitle: null
+podlove_summary: null
+podlove_enable: null
+podlove_slug: null
+podlove_duration: null
+podlove_cover_art: null
+podlove_chapters: null
+podlove_recording_date: null
+podlove_explicit: null
 podlove_license_name: null
 podlove_license_url: null
 ---
