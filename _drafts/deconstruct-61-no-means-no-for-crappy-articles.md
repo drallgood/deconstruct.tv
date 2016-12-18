@@ -1,10 +1,15 @@
 ---
+ID: 518
 post_title: 'Deconstruct 61: No Means No for Crappy Articles'
 author: patrice
+post_date: 2016-12-18 13:14:02
 post_excerpt: ""
 layout: podcast
-permalink: http://deconstruct.tv/episode/61/
-podlove_subtitle: 'Patrice, Jerry, and Ben are back and ready for more punishment. They are hit by BS Outsider with an IT tool called Spiceworks and Google's data collection policies. And somehow they survive!'
+permalink: 'http://deconstruct.tv/?post_type=podcast&p=518'
+published: false
+podlove_id: "226"
+podlove_post_id: "518"
+podlove_subtitle: "Patrice, Jerry, and Ben are back and ready for more punishment. They are hit by BS Outsider with an IT tool called Spiceworks and Google's data collection policies. And somehow they survive!"
 podlove_summary: null
 podlove_enable: null
 podlove_slug: episode61
