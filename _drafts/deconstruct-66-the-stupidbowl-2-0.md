@@ -1,10 +1,17 @@
 ---
+ID: 580
 post_title: 'Deconstruct 66:  The Stupidbowl 2.0'
 author: patrice
+post_date: 2017-04-30 14:53:12
 post_excerpt: ""
 layout: podcast
-permalink: http://deconstruct.tv/episode/66/
-podlove_subtitle: 'The whole panel is here this week and unlike last year, we’re not drunk.'
+permalink: 'http://deconstruct.tv/?post_type=podcast&p=580'
+published: false
+podlove_id: "234"
+podlove_post_id: "580"
+podlove_subtitle: >
+  The whole panel is here this week and
+  unlike last year, we’re not drunk.
 podlove_summary: null
 podlove_enable: null
 podlove_slug: episode66
