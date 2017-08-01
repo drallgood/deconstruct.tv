@@ -1,16 +1,12 @@
 ---
 ID: 16
 post_title: About
-author:
-  - 'a:1:{i:0;s:7:"patrice";}'
-post_date:
-  - 'a:1:{i:0;s:19:"2014-09-28 16:46:49";}'
-post_excerpt:
-  - 'a:1:{i:0;s:0:"";}'
+author: patrice
+post_excerpt: ""
 layout: page
-permalink:
-  - 'a:1:{i:0;s:7:"/about/";}'
+permalink: http://deconstruct.tv/about/
 published: true
+post_date: 2014-09-28 16:46:49
 ---
 Fleeing from the tyranny of tech writers and **ANAL**ysts, the last three sane people in tech engage in a ragtag fugitive podcast in search… ah, fuck it, that’s Battlestar Galactica.  
 
