@@ -1,19 +1,19 @@
 ---
+ID: 622
 post_title: 'Deconstruct 68:  Terrible Articles Presented by Tea'
 author: patrice
 post_excerpt: ""
 layout: podcast
-permalink: http://deconstruct.tv/episode/68/
-published: true
-yst_is_cornerstone:
-  - ""
-podlove_subtitle: \>
-  On Deconstruct 69:  Things are going wrong and it actually helps out Patrice and Ben.  In other news, Apple Insider caters to gamers and Siri is dying. Fun times for the two hosts.
+permalink: 'http://deconstruct.tv/?post_type=podcast&p=622'
+published: false
+podlove_id: "240"
+podlove_post_id: "622"
+podlove_subtitle: 'On Deconstruct 69:  Things are going wrong and it actually helps out Patrice and Ben.  In other news, Apple Insider caters to gamers and Siri is dying. Fun times for the two hosts.'
 podlove_summary: null
 podlove_enable: null
 podlove_slug: episode69
 podlove_duration: 00:24:11.376
-podlove_cover_art: \>
+podlove_cover_art: >
   http://deconstruct.tv/wp-content/uploads/2017/02/deconstruct_logo_white.png
 podlove_chapters: null
 podlove_recording_date: 2017-04-23 00:00:00
