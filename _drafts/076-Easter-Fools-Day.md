@@ -1,21 +1,22 @@
 ---
-ID: 709
-post_title: "076:  Easter Fools Day"
+ID: 713
+post_title: '076: Easter Fools Day'
 author: patrice
 post_excerpt: ""
 layout: podcast
-permalink: http://deconstruct.tv/episode/76/
+permalink: 'https://deconstruct.tv/?post_type=podcast&p=713'
 published: false
-post_date: 2018-05-028 22:38:08
-podlove_title: "Easter Fools Day"
-podlove_subtitle: "On this episode of Deconstruct, Ben did the best disclaimer he’s ever done and forgot to record it!  It’s a very special episode since its Easter Fools Day.  Yes its both Easter and April Fool’s Day.  Ben and Patrice are here while Jerry, is somewhere else. BS Outsider derides the new iPad in favor of Chromebooks and the Mac Observer pines for the return of the iPad Mini"
+podlove_id: "257"
+podlove_post_id: "713"
+podlove_title: Easter Fools Day
+podlove_subtitle: 'On this episode of Deconstruct, Ben did the best disclaimer he’s ever done and forgot to record it!  It’s a very special episode since its Easter Fools Day.  Yes its both Easter and April Fool’s Day.  Ben and Patrice are here while Jerry, is somewhere else. BS Outsider derides the new iPad in favor of Chromebooks and the Mac Observer pines for the return of the iPad Mini'
 podlove_summary: null
 podlove_number: "76"
 podlove_type: full
 podlove_enable: null
 podlove_slug: episode76
 podlove_duration: 00:31:04.608
-podlove_cover_art: \>
+podlove_cover_art: >
   http://deconstruct.tv/wp-content/uploads/2017/02/deconstruct_logo_white.png
 podlove_chapters: null
 podlove_recording_date: 2017-09-17 00:00:00
