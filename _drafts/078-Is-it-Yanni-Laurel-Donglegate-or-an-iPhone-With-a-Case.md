@@ -1,21 +1,24 @@
 ---
+ID: 737
 post_title: '078: Is it Yanni, Laurel, Donglegate, or an iPhone With a Case?'
 author: patrice
 post_excerpt: ""
 layout: podcast
-permalink: https://deconstruct.tv/episode/78/
+permalink: 'https://deconstruct.tv/?post_type=podcast&p=737'
 published: false
-post_date: 2018-07-08 08:00:08
-podlove_title: Is it Yanni, Laurel, Donglegate, or an iPhone With a Case?
-podlove_subtitle: \>
-  It's the week before WWDC 2018 and Jerry is trying to make a living in the ultra-expensive land of Hawaii.  That leaves Ben and Patrice to do the lamentable job of going over terrible articles.
+podlove_id: "259"
+podlove_post_id: "737"
+podlove_title: >
+  Is it Yanni, Laurel, Donglegate, or an
+  iPhone With a Case?
+podlove_subtitle: "It's the week before WWDC 2018 and Jerry is trying to make a living in the ultra-expensive land of Hawaii.  That leaves Ben and Patrice to do the lamentable job of going over terrible articles."
 podlove_summary: null
 podlove_number: "78"
 podlove_type: full
 podlove_enable: null
 podlove_slug: episode78
 podlove_duration: 00:56:24.840
-podlove_cover_art: \>
+podlove_cover_art: >
   http://deconstruct.tv/wp-content/uploads/2017/02/deconstruct_logo_white.png
 podlove_chapters: null
 podlove_recording_date: 2018-05-27 00:00:00
