@@ -1,20 +1,26 @@
 ---
-post_title: '079:  WhyMore BenGate? Nobody Cares!'
+ID: 761
+post_title: "079: WhyMore BenGate? Nobody Cares!'"
 author: patrice
 post_excerpt: ""
 layout: podcast
-permalink: https://deconstruct.tv/episode/79/
+permalink: 'https://deconstruct.tv/?post_type=podcast&p=761'
 published: false
-podlove_title: WhyMore BenGate? Nobody Cares!'
-podlove_subtitle: \>
-  On Episode 79 of Deconstruct iMore brings BenGate back and The Verge confuses Apple for Google. And nobody really cares!
+podlove_id: "260"
+podlove_post_id: "761"
+podlove_title: "WhyMore BenGate? Nobody Cares!'"
+podlove_subtitle: >
+  On Episode 79 of Deconstruct iMore
+  brings BenGate back and The Verge
+  confuses Apple for Google. And nobody
+  really cares!
 podlove_summary: null
 podlove_number: "79"
 podlove_type: full
 podlove_enable: null
 podlove_slug: episode79
 podlove_duration: 00:56:24.840
-podlove_cover_art: \>
+podlove_cover_art: >
   http://deconstruct.tv/wp-content/uploads/2017/02/deconstruct_logo_white.png
 podlove_chapters: null
 podlove_recording_date: 2018-05-27 00:00:00
